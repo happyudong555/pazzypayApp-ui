@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "pazzypay"
+  },
+  "targets": {
+    "pazzypay": {
+      "hosting": {
+        "pazzypay": [
+          "pazzypay"
+        ]
+      }
+    }
+  }
+}
